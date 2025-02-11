@@ -1,7 +1,6 @@
 # 🚗 CarRental
 
 ![Demo animation](./docs/ezgif-67159d5353093c.gif)
-<img src="./docs/ezgif-67159d5353093c.gif" width="800">
 
 
 ## 📌 Overview
