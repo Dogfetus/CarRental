@@ -1,0 +1,4 @@
+/home/dogfetus/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/dogfetus/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/ninja/linux/x64/ninja -G Ninja -S /home/dogfetus/ikt103g23v/project -B /home/dogfetus/ikt103g23v/project/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dogfetus/ikt103g23v/project/cmake-build-debug

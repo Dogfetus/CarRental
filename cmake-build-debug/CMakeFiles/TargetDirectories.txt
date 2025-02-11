@@ -1,0 +1,10 @@
+/home/dogfetus/ikt103g23v/project/cmake-build-debug/CMakeFiles/sqlite3.dir
+/home/dogfetus/ikt103g23v/project/cmake-build-debug/CMakeFiles/project.dir
+/home/dogfetus/ikt103g23v/project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dogfetus/ikt103g23v/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dogfetus/ikt103g23v/project/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/dogfetus/ikt103g23v/project/cmake-build-debug/CMakeFiles/install.dir
+/home/dogfetus/ikt103g23v/project/cmake-build-debug/CMakeFiles/install/local.dir
+/home/dogfetus/ikt103g23v/project/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/dogfetus/ikt103g23v/project/cmake-build-debug/CMakeFiles/sqlite3_autogen.dir
+/home/dogfetus/ikt103g23v/project/cmake-build-debug/CMakeFiles/project_autogen.dir

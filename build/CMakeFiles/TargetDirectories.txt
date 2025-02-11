@@ -1,0 +1,8 @@
+/home/dogfetus/ikt103g23v/project/build/CMakeFiles/install/local.dir
+/home/dogfetus/ikt103g23v/project/build/CMakeFiles/install.dir
+/home/dogfetus/ikt103g23v/project/build/CMakeFiles/list_install_components.dir
+/home/dogfetus/ikt103g23v/project/build/CMakeFiles/rebuild_cache.dir
+/home/dogfetus/ikt103g23v/project/build/CMakeFiles/edit_cache.dir
+/home/dogfetus/ikt103g23v/project/build/CMakeFiles/install/strip.dir
+/home/dogfetus/ikt103g23v/project/build/CMakeFiles/project.dir
+/home/dogfetus/ikt103g23v/project/build/CMakeFiles/project_autogen.dir
